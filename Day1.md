@@ -22,3 +22,8 @@ var element2 = document.querySelector(".myClass");
 var elements3 = document.querySelectorAll(".myClass");
 //This code selects all elements with the class "myClass" and assigns them to the variable elements. The result is a NodeList, which is a collection of elements //that you can iterate over or perform operations on.
 ```
+## Coding Challenges For Day 1
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
+- https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string
+
