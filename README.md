@@ -16,9 +16,9 @@ Solved problems Given By GSG Team: To reinforce my learning, I actively sought o
 By combining these activities, I ensured a well-rounded learning experience that encompassed both theory and practical application. These efforts laid a strong foundation for my journey into JavaScript development on GitHub.
 
 ## courses 
--[JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
--[JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
--[Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
+- [JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+- [JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+- [Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
 
 ## Coding Challenges
 
