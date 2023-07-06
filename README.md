@@ -25,4 +25,7 @@ By combining these activities, I ensured a well-rounded learning experience that
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
 - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string
 
-
+## My Dailly Progres:
+### - [Day1](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day1.md)
+### - [Day2](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day2.md)
+### - [Day3](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day3.md)
