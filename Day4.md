@@ -102,6 +102,19 @@ function golfScore(par, strokes) {
 
 golfScore(5, 4);
 ```
+[Use the map Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
+``` javascript
+const ratings = watchList.map(user => {
+  return { title: user["Title"], rating: user["imdbRating"] };
+});
+```
+[Use the filter Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array)
+``` javascript
+const filteredList = watchList
+  .filter(movie => parseFloat(movie.imdbRating) >= 8.0)
+  .map(movie => ({ title: movie.Title, rating: movie.imdbRating }));
+
+```
 
 
 
