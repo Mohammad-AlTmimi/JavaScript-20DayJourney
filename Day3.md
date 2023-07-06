@@ -11,7 +11,7 @@ car = "AUDI" // "AUDI"
 ### - let
 
 In JavaScript, let is a keyword used to declare variables with block scope. Variables declared with let are only accessible within the block of code where they are defined, such as inside a function or an if statement.
-```
+``` javascript
 let car; // Undefined
 car = "AUDI" // "AUDI"
 ```
