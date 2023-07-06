@@ -8,7 +8,7 @@ let arr = [10 , 20 , 5 , 8].sort()  // we Expected to be [5 , 8 , 10 , 20]
                                     // But in JavaScript it will be [10 , 20 , 5 , 8]
 ```
 
-## join
+## - join
 We can use join in array to join element to the array 
 for example 
 ``` javascript
@@ -17,7 +17,7 @@ arr.join("&");
 console.log(arr) // Mohammad&Tamimi&Friend
 ```
 
-## mutable vs immutable
+## - mutable vs immutable
 in JavaScript there is mutable data and immutable data
 ### - muttable data 
 like array (we can change the data in side it)
@@ -34,4 +34,36 @@ s[7] = "d";
 console.log(s) // Mohammaa;
 // Note that (s[7] = "d" doesnot show compilation error but it did not work)
 ``` 
+## - let vs const 
+let and const have so many thing in common but there is one thing they have differnt in it
+let variable can change it data unlike const 
+``` javascript
+let car = "AUDI"
+car = 10; // No problem
+const car = "AUDI"
+car = 10; // compailation error
+```
+## - Object
+An object is a data structure that encapsulates related data and functions into a single unit. It allows us to organize and manage information by grouping it together. Objects are used in programming to represent real-world entities or abstract concepts, and they enable us to write modular and reusable code.
+``` javascript
+let obj = {
+  name: "Mohammd",
+  age: 20,
+  Universty: "Hebron Universty"
+}
+```
+and there is also Nested Object
+A nested object refers to an object that is nested or contained within another object. In other words, it is an object that is a property or value of another object. This nesting can occur at multiple levels, creating a hierarchical structure.
+``` javascript
+let person = {
+  name: "John",
+  age: 30,
+  address: {
+    street: "123 Main St",
+    city: "New York",
+    country: "USA"
+  }
+};
+```
+
 
