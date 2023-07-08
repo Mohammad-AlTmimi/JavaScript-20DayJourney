@@ -15,5 +15,5 @@ We can also write variable hold function
 const sum = (num1 , num2) =>{
   return num1 + num2;
 }
-// This code work exactly the same from the upper one
+// This code work exactly the same from the first one
 ```
