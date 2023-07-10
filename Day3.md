@@ -4,7 +4,7 @@
 
 ### - var 
 Var is a way to declare a variable in JavaScript and it was the first method introduced in the language.
-```
+``` javascript
 var car; // Undefined
 car = "AUDI" // "AUDI"
 ```
@@ -28,19 +28,19 @@ Variables declared with let are also hoisted to the top of their scope, but unli
 
 ## Note: 
 - There's a different between assign a value and declare a value in JavaScript
-```
+``` javascript
 let x; // declare
 x = 10; // assign
 ```
 - In JavaScript you can chagne the type of the variable in JavaScript
-```
+``` javascript
 let x = 10; // x = 10
 x = "Mohammad" // x = "Mohammad"
 ```
 ## - Array
 Like other language JavaScript also had a Array
 index in array start from zero (0)
-```
+``` javascript
 let x = []; // intialize an array
 ```
 
