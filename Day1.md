@@ -12,7 +12,7 @@ The DOM in HTML is a programming interface that represents the structure of a we
 
 In JavaScript, the term "document" refers to the Document Object Model (DOM) interface. The "document" object represents the web page loaded in the browser and provides methods and properties for interacting with and manipulating the HTML elements and content of the page.
 
-```
+``` javascript
 var element1 = document.getElementById("myElement");
 //This code retrieves the element with the ID "myElement" and assigns it to the variable element1.
 
