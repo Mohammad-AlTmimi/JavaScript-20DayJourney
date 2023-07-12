@@ -66,7 +66,7 @@ function urlSlug(title) {
 // Only change code above this line
 urlSlug("A Mind Needs Books Like A Sword Needs A Whetstone");
 ```
-- [Exercises for functions and callbacks]([https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day1-tasks/tasks.md](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day1-tasks/tasks.md)https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day1-tasks/tasks.md)
+- [Exercises for functions and callbacks](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day1-tasks/tasks.md)
 ``` javascript
 function newAsync(value) {
   return new Promise((resolve, reject) => {
@@ -89,5 +89,15 @@ function mapAsync(arr) {
     });
   });
   return Newarr;
+}
+```
+[Call Stack and Recursion](https://github.com/orjwan-alrajaby/gsg-expressjs-backend-training-2023/blob/main/learning-sprint-1/week2-day1-tasks/tasks.md)
+``` javascript
+function sumRange(start, end) {
+  if (start === end) {
+    return start; // Base case: when start and end are equal, return the value itself
+  } else {
+    return start + sumRange(start + 1, end); // Recursively call the function with start incremented by 1
+  }
 }
 ```
