@@ -95,9 +95,9 @@ function mapAsync(arr) {
 ``` javascript
 function sumRange(start, end) {
   if (start === end) {
-    return start; // Base case: when start and end are equal, return the value itself
+    return start;
   } else {
-    return start + sumRange(start + 1, end); // Recursively call the function with start incremented by 1
+    return start + sumRange(start + 1, end);
   }
 }
 ```
