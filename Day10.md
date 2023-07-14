@@ -2,7 +2,7 @@
 ## Closure in JavaScript
 
 In JavaScript, closures are an important concept that refers to the ability of a function to access variables from its outer scope, even after the outer function has finished executing. In simpler terms, a closure is created when a function "remembers" its lexical scope and can access variables from that scope, even when the function is executed in a different scope.
-## multiple clousure instance
+## multiple clousure instance 
 
 In JavaScript, you can create multiple instances of closures by invoking the outer function multiple times. Each invocation will create a new closure with its own set of variables.
 ``` javascript
