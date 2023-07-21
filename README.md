@@ -1,4 +1,4 @@
-# JavaScript-20DayJourney
+# JavaScript-14DayJourney
 # Learning JavaScript 
 
 
@@ -33,3 +33,10 @@ By combining these activities, I ensured a well-rounded learning experience that
 ### - [Day5](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day5.md)
 ### - [Day6](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day6.md)
 ### - [Day7](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day7.md)
+### - [Day8](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day8.md)
+### - [Day9](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day9.md)
+### - [Day10](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day10.md)
+### - [Day11](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day11.md)
+### - [Day12](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day12.md)
+### - [Day13](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day13.md)
+### - [Day14](https://github.com/Mohammad-AlTmimi/JavaScript-20DayJourney/blob/main/Day14.md)
