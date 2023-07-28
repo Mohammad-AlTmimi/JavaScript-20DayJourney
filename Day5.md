@@ -17,3 +17,20 @@ const sum = (num1 , num2) =>{
 }
 // This code work exactly the same from the first one
 ```
+- # practice
+``` javascript
+async function fetchData() {
+try {
+    const response1 = await fetch('https://rickandmortyapi.com/api/character');
+    const response2 = await response1.json();
+    let filer = response2.results.filter(item => item.status === 'Alive')
+    if(filer.length > 50){
+        const filer = filer.splice(0 , 50);
+    }
+    console.log(filer)
+  } catch (error) {
+    console.error('Error fetching data:', error);
+  }
+}
+fetchData();
+```
